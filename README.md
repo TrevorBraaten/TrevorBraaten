@@ -1,4 +1,7 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.imgur.com/VLxBYkW.png" height="350" width="400" /></a>
+
+<p align="Center">
+  <img src="https://i.imgur.com/VLxBYkW.png" height="350" width="400" />
+  </p>
 
 
 
