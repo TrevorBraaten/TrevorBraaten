@@ -5,7 +5,7 @@
   
   <p align="Center">
   <img src="https://github-readme-stats.vercel.app/api?username=TrevorBraaten&theme=material-palenight&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorBraaten&theme=material-palenight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorBraaten&theme=material-palenight&layout=default" />
   
   
  
