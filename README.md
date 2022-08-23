@@ -5,9 +5,10 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrevorBraaten)](https://github.com/TrevorBraaten/github-readme-stats)
+[![Trevors GitHub stats](https://github-readme-stats.vercel.app/api?username=TrevorBraaten)](https://github.com/TrevorBraaten/github-readme-stats)
 
 
+![Trevors Github Stats](https://github-readme-stats.vercel.app/api?username=TrevorBraaten&count_private=true)
 
 
 
