@@ -5,6 +5,7 @@
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrevorBraaten)](https://github.com/TrevorBraaten/github-readme-stats)
 
 
 
