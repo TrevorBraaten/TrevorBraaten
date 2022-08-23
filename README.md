@@ -1,4 +1,4 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.imgur.com/VLxBYkW.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://i.imgur.com/VLxBYkW.png" height="400" /></a>
 
 
 
