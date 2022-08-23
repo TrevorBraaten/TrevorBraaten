@@ -4,8 +4,9 @@
   </p>
 
 
-
+<p align="Center">
 ![Trevors Github Stats](https://github-readme-stats.vercel.app/api?username=TrevorBraaten&theme=material-palenight&show_icons=true)
+  </p>
 
 
 
