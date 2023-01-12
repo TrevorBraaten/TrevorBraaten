@@ -2,11 +2,6 @@
 <p align="Center">
   <img src="https://i.imgur.com/VLxBYkW.png" height="350" width="400" />
   </p>
-  
-  <p align="Center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrevorBraaten&theme=material-palenight&show_icons=true" />
-  </p>
-
 
 
 
