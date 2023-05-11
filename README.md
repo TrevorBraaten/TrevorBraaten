@@ -1,27 +1,13 @@
 
 <p align="Center">
-  <img src="https://i.imgur.com/Ss3EJcs.png" height="300" width"300" />
+  <img src="https://i.imgur.com/Ss3EJcs.png" height="350" width"350" />
   </p>
+  
+  <h1>Hello, </h1>
+  <h1> I'm Trevor Braaten.</h1>
+  
+  <h3> I am currently a full-time worker, computer science student, software developer, and tech enthusiast in my spare time. I love learning, I do it out of love but I hope that one day I can make this into a career.</h3>
 
+<p> You can reach my @ TrevorBraaten27@gmail.com </p>
 
-
-
-
-
-
-
-
-<!--
-**TrevorBraaten/TrevorBraaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
