@@ -8,8 +8,9 @@
 <h3> I am currently a full-time worker, computer science student, software developer, and tech enthusiast in my spare time. I love learning, I do it out of love but I hope that one day I can make this into a career.</h3>
 <p> You can reach my @ TrevorBraaten27@gmail.com </p>
 
-<p> Languages I am proficient in include: </p>
 
+<p> I primarily work in C/C++.</p>
+<p> Languages I am proficient in include: </p>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="50" width="50" style="display: inline-block;"/>
   <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" height="50" width="50" style="display: inline-block;"/>
