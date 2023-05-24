@@ -2,26 +2,18 @@
   <img src="https://i.imgur.com/Ss3EJcs.png" height="350" width"350" />
 </p>
 
-<h1>Hello, </h1>
-<h1> I'm Trevor Braaten.</h1>
-
+<h1>Hello, I'm Trevor./h1>
 <p>
 <ul>
   <li>I currently work a full-time job</li>
-  <li>while going to school full-time for computer science.</li>
-  <li>, grinding 70-80 hours a week on software development.</li>
-  <li>I do this because it's what I love to do, and I wouldn't rather be anywhere else.  </li>
- 
-
-
-
-
-
-
-<h3> I am currently a full-time worker, computer science student, software developer, and tech enthusiast in my spare time. I love learning, I do it out of love but I hope that one day I can make this into a career.</h3>
-<p> I primarily work in C/C++.</p>
-<p> You can reach my @ TrevorBraaten27@gmail.com </p>
-
+  <li>I am also currently attending school full-time for computer science.</li>
+  <li> I still spend 70-80 hours a week programming :)</li>
+  <li> I do this because it's what I love to do, and I wouldn't rather be doing anything else</li>
+  <li> Currently a freelance Software Developer</li>
+  <li> Looking to start up a passion project and build it from the ground up with a team of other like minded and committed people</li>
+  <li> Specifically program in C/C++.</li>
+  <li> If you need help with anything, or if you are interested in collaborating feel free to email me @ SupremeTBX@gmail.com
+  <li>You can also find me on Twitter, or Instagram @ NWTrevorBraaten
 <p> Languages I am proficient in include: </p>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="50" width="50" style="display: inline-block;"/>
