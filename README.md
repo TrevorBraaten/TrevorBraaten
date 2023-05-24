@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/Ss3EJcs.png" height="350" width"350" />
 </p>
 
-<h1>Hello, I'm Trevor./h1>
+<h1>Hello, I'm Trevor.</h1>
 <p>
 <ul>
   <li>I currently work a full-time job</li>
@@ -13,7 +13,8 @@
   <li> Looking to start up a passion project and build it from the ground up with a team of other like minded and committed people</li>
   <li> Specifically program in C/C++.</li>
   <li> If you need help with anything, or if you are interested in collaborating feel free to email me @ SupremeTBX@gmail.com
-  <li>You can also find me on Twitter, or Instagram @ NWTrevorBraaten
+  <li>You can also find me on Twitter, or Instagram @ NWTrevorBraaten.
+    </p>
 <p> Languages I am proficient in include: </p>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="50" width="50" style="display: inline-block;"/>
