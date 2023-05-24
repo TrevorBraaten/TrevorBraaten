@@ -5,6 +5,19 @@
 <h1>Hello, </h1>
 <h1> I'm Trevor Braaten.</h1>
 
+<p>
+<ul>
+  <li>I currently work a full-time job</li>
+  <li>while going to school full-time for computer science.</li>
+  <li>, grinding 70-80 hours a week on software development.</li>
+  <li>I do this because it's what I love to do, and I wouldn't rather be anywhere else.  </li>
+ 
+
+
+
+
+
+
 <h3> I am currently a full-time worker, computer science student, software developer, and tech enthusiast in my spare time. I love learning, I do it out of love but I hope that one day I can make this into a career.</h3>
 <p> I primarily work in C/C++.</p>
 <p> You can reach my @ TrevorBraaten27@gmail.com </p>
