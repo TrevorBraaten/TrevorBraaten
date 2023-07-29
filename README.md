@@ -12,7 +12,7 @@
   <li> Currently a freelance Software Developer</li>
   <li> Looking to start up a passion project and build it from the ground up with a team of other like minded and committed people</li>
   <li> Specifically program in C/C++.</li>
-  <li> If you need help with anything, or if you are interested in collaborating feel free to email me @ tb@TB@gmail.com
+  <li> If you need help with anything, or if you are interested in collaborating feel free to email me @ tb@trevorbraatendev.com
   <li>You can also find me on Twitter, or Instagram @ NWTrevorBraaten.
     </h4>
 <p> Languages I am proficient in include: </p>
