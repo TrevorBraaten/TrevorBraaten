@@ -23,5 +23,5 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="50" width="50" style="display: inline-block;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="50" width="50" style="display: inline-block;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50" width="50" style="display: inline-block;"/>
- <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/>
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"  height="50" width="50" style="display: inline-block;"/>
 </div>
