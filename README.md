@@ -25,3 +25,4 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50" width="50" style="display: inline-block;"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"  height="50" width="50" style="display: inline-block;"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp&w=256" height="50" width="50" style="display: inline-block;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="50" width="50" style="display: inline-block;"/>
